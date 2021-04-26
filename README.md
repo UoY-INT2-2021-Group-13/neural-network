@@ -1,2 +1,2 @@
 # neural-network
-the neural network thingy
+i have changed the readme
